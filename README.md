@@ -1,2 +1,1 @@
-my README.md
-i edited my readme file
+my README.md edited my readme file
